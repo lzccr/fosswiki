@@ -1,0 +1,13 @@
+site_name: FossWiki
+repo_url: https://github.com/lzccr/fosswiki
+site_author: lzccr
+site_description: >-
+  Beginner-friendly guide to Free and Open Source Softwares (FOSS). 
+copyright: CC0 1.0 Universal (CC0 1.0)
+
+nav: 
+  - Home: 'index.md'
+
+theme: 
+  name: material
+  font: false
