@@ -3,7 +3,13 @@ site_url: https://lzccr.github.io/fosswiki
 repo_url: https://github.com/lzccr/fosswiki
 repo_name: lzccr/mkdocs-test
 # edit_url: edit/main/docs
-copyright: MIT License
+copyright: CC0 1.0 Universal (CC0 1.0)
+
+nav:
+  - Home: "index.md"
+  - "Linux":
+      - "linux-intro.md"
+      - "arch.md"
 
 theme:
   name: material
