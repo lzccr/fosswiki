@@ -26,7 +26,7 @@ git checkout new-branch
 
 ## For adding a FOSS, or change of documentation
 
-Add/Change the `.md` file under `docs` folder, then submit a pull request.
+Add/Change the `.md` file under `docs` folder, make appropreate changes to `mkdocs.yml`, then submit a pull request.
 
 GitHub Actions should automatically generate a file under `site`.
 
